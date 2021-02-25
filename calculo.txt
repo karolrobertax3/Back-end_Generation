@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+public class CalculoDeExpressao {
+		//EXERCÍCIO4
+	public static void main(String[] args) {
+		double a, b, c, d, r, s;
+		Scanner tres = new Scanner(System.in);
+		
+		System.out.println("Insira o número A: ");
+		a = tres.nextDouble();
+		
+		System.out.println("Insira o número B: ");
+		b = tres.nextDouble();
+		
+		System.out.println("Insira o número C: ");
+		c = tres.nextDouble();
+		
+
+	}
+
+}
