@@ -3,7 +3,7 @@ package Bloco1;
 import java.util.Scanner;
 
 public class TresInteiros {
-
+			//CONDICIONAIS EXERCÍCIO 1
 	public static void main(String[] args) {
 		
 		Scanner sc = new Scanner(System.in);

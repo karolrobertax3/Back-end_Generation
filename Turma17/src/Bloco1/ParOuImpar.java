@@ -2,7 +2,7 @@ package Bloco1;
 import java.util.Scanner;
 
 public class ParOuImpar {
-		//CONDICIONAIS EXERCÍCIO4 
+		//CONDICIONAIS EXERCÍCI O4 
 	public static void main(String[] args) {
 		int num;
 		double resultado;
