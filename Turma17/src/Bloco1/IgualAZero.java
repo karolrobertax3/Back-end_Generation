@@ -5,7 +5,8 @@ public class IgualAZero {
 
 	public static void main(String[] args) 
 	{
-		// EXERCÍCIO 5 DE REPETIÇÃO 26/02/2021
+		// EXERCÍCIO 5 
+		//LAÇOS DE REPETIÇÃO 26/02/2021
 		int numeros, soma=0;
 		Scanner sc = new Scanner(System.in);
 		

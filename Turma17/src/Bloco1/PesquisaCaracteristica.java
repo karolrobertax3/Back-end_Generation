@@ -3,7 +3,8 @@ package Bloco1;
 import java.util.Scanner;
 
 public class PesquisaCaracteristica {
-		//EXERCÍCIO 4 LAÇOS DE REPETIÇÕES 26/02/2021
+		//EXERCÍCIO 4 
+		//LAÇOS DE REPETIÇÕES 26/02/2021
 	
 	public static void main(String[] args) {
 		int i=1,idade, sexo, fatorPsicologico, countpessoascalmas=0, countmulhernervosa=0, counthomemagressivo=0, countoutroscalmos=0, countnervosa40=0, countcalma18=0;

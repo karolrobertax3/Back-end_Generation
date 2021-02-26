@@ -3,7 +3,8 @@ package Bloco1;
 import java.util.Scanner;
 
 public class DezNumeros {
-	//EXERCÍCIO 2 DE REPETIÇÃO 26/02/2021
+	//EXERCÍCIO 2 
+		//LAÇOS DE REPETIÇÃO 26/02/2021
 
 	public static void main(String[] args) {
 		int i,number, countpar=0, countimpar=0;
