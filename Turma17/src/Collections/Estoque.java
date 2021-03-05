@@ -13,17 +13,17 @@ public class Estoque {
 		estoque.add("Saia");
 		estoque.add("Vestido");
 		
-		System.out.println("Lista de produtos: " + estoque);
+		System.out.println("\nLista de produtos: " + estoque);
 		
-		System.out.println("Lista de produtos: " + estoque);
+		System.out.println("\nLista de produtos: " + estoque);
 		estoque.remove("Calça");
-		System.out.println("Lista de nomes: " + estoque);
+		System.out.println("\nLista de nomes: " + estoque);
 		
-		System.out.println("Lista de produto " + estoque);
+		System.out.println("\nLista de produto " + estoque);
 		estoque.contains("Camisa");
 		estoque.remove("Camisa");
 		estoque.add("Blusa");
-		System.out.println(estoque);
+		System.out.println("Lista atualizada de produtos" + estoque);
 		
 		
 		
